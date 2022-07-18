@@ -1,7 +1,7 @@
 # README
 
 # アプリ名
-one-line-diary
+simple-diaries
 
 # アプリケーション概要
 
@@ -9,34 +9,11 @@ one-line-diary
 # URL
 
 # テスト用アカウント
-・Basic認証ID：admin
-・Basic認証パスワード：2222
-・メールアドレス：test@com
-・パスワード：test11
+・Basic認証ID：
+・Basic認証パスワード:
+・メールアドレス：
+・パスワード：
 # 利用方法
-
-## 日記を投稿する
-・
-・
-・
-
-## 
-・
-・
-
-## 
-・
-
-# アプリケーションを作成した背景
-
-
-# 洗い出した要件
-要件定義シート
-https://docs.google.com/spreadsheets/d/1uyNWhry767kxWGf87YFPNGWLwunnpXS5vRqNqAVHG2M/edit#gid=982722306
-
-# 追加実装したい機能
-・管理者制限：不適切な投稿を削除したりユーザーを制限することでサービスの安全性を高めるため
-・
 
 # データベース設計
 
